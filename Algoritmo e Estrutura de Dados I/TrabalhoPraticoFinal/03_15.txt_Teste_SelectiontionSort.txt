@@ -1,0 +1,2 @@
+Teste:1 	NumTrocas: 12	NumComparacoes:105	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 12	NumComparacoes:105	Tempo Gasto:0.000000ms

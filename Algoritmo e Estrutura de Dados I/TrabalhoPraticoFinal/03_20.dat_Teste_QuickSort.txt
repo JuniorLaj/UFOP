@@ -1,0 +1,10 @@
+Teste:1 	NumTrocas: 23	NumComparacoes:71	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 23	NumComparacoes:71	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 57	NumComparacoes:57	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 0	NumComparacoes:0	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 0	NumComparacoes:0	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 0	NumComparacoes:0	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 6486728	NumComparacoes:6486724	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 100	NumComparacoes:26	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 100	NumComparacoes:26	Tempo Gasto:0.000000ms
+Teste:1 	NumTrocas: 100	NumComparacoes:26	Tempo Gasto:0.000000ms

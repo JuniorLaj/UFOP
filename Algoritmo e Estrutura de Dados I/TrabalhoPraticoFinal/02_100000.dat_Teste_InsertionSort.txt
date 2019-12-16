@@ -1,0 +1,1 @@
+Teste:1 	NumTrocas: 704982704	NumComparacoes:705082703	Tempo Gasto:35046.000000ms
