@@ -1,0 +1,21 @@
+_MAIN: read A0 
+	read A1 
+	push A0 
+	push A1 
+	call _SOMANUMEROS 
+	pop A0 
+	write A0 
+	stop 
+_SOMANUMEROS: pop A2 
+	pop A1 
+	pop A0 
+	push A2 
+	load_c A3 1 
+_LOOP: jmpz A0 _FINISH 
+	add A1 A3 
+	subtract A0 A3 
+	jump _LOOP 
+_FINISH: pop A2 
+	push A1 
+	push A2 
+	return 

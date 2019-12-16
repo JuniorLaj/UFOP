@@ -1,0 +1,11 @@
+lw t1,40(t1)
+sw t0,50(a0)
+beq t1,t2,4
+bne t1,t2,4
+slt t1,t2,t0
+slti t1,t2,5
+add t0,t3,t4
+addi t5,t6,8
+j 30
+and t0,t1,t2
+or t3,t4,t5

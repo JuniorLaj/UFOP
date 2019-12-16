@@ -1,0 +1,12 @@
+_MAIN: read A0 
+	push A0 
+	call _QUADRADO 
+	pop A0 
+	write A0 
+	stop 
+_QUADRADO: pop A0 
+	pop A1 
+	multiply A1 A1 
+	push A1 
+	push A0 
+	return 
