@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1543627938 source:c:\users\junio\desktop\algoritmo e estrutura de dados i\lista ii\exercicio_03\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Exec_03.c"
+
+1543627947 c:\users\junio\desktop\algoritmo e estrutura de dados i\lista ii\exercicio_03\exec_03.c
+	<stdio.h>
+
+1543627864 c:\users\junio\desktop\algoritmo e estrutura de dados i\lista ii\exercicio_03\exec_03.h
+	<stdio.h>
+
+1543627947 source:c:\users\junio\desktop\algoritmo e estrutura de dados i\lista ii\exercicio_03\exec_03.c
+	<stdio.h>
+
